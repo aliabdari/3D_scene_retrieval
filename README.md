@@ -1,6 +1,6 @@
 # Metaverse Apartment Retrieval Challenge 
 
-This repository contains information about the baseline of the [Metaverse Apartment Retrieval Challenge ](http://ailab.uniud.it/apartment-recommendation-challenge/)
+This repository contains information about the baseline of the [Metaverse Apartment Retrieval Challenge ](https://ailab.uniud.it/apartment-recommendation-challenge/)
 
 ## Registration
 If you are interested in this challenge please register through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeWG1h2Pn6ix50_myZYE816dENbYzWhaGAEdQdAzrjekr4Uhw/viewform).
